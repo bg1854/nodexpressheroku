@@ -2,7 +2,7 @@
   "name": "nodexpress",
   "version": "1.0.0",
   "description": "nodexpress",
-  "main": "index.js",
+  "main": "expressdemo1",
   "scripts": {
     "start": "node expressdemo1.js"
   },
